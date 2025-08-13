@@ -7,3 +7,4 @@ matplotlib
 geopy
 networkx
 osmnx==2.0.4
+xlsxwriter
