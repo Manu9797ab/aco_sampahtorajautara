@@ -1,8 +1,9 @@
 streamlit
-osmnx==1.9.2
-networkx
 pandas
 numpy
-scipy
-matplotlib
 folium
+streamlit-folium
+matplotlib
+geopy
+networkx
+osmnx==2.0.4
